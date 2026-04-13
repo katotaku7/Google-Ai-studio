@@ -1,0 +1,6 @@
+{
+  "name": "雲の中の仕事 - Work in the Clouds",
+  "description": "An immersive storytelling experience about professional photography in the misty mountains of Saga.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
